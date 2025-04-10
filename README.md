@@ -1,2 +1,17 @@
-# Quizzler
-Ready to flex those brain muscles? 🧠💥 This Python quiz game uses Tkinter for a sleek GUI and pulls real trivia from OpenTrivia API. Multiple categories, instant feedback, and score tracking — it's trivia night, anytime, no host required! 🎉📚
+# 🧠 Trivia Quiz Game (Tkinter + OpenTrivia)
+
+A fun and interactive quiz game built with Python's Tkinter and powered by the OpenTrivia API. Choose categories, test your knowledge, and track your score!
+
+## 🚀 Features
+- GUI built with Tkinter
+- Fetches questions from OpenTrivia API
+- Multiple categories & difficulties
+- Real-time score tracking
+- Instant feedback on answers
+
+## ▶️ How to Run
+
+1. Save the script as `quiz_game.py`
+2. Install required libraries:
+   ```bash
+   pip install requests
